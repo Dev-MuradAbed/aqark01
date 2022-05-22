@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477931469401",
+    "project_id": "aqark-d847c",
+    "storage_bucket": "aqark-d847c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477931469401:android:5a2bc479d4247b07314f48",
+        "android_client_info": {
+          "package_name": "com.aqark.aqark01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477931469401-9l0c895sbbr5g4dopaorehehc0cpanrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-9fEDoHo4j1dQwOnSbZutwLgySHqOkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477931469401-9l0c895sbbr5g4dopaorehehc0cpanrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
